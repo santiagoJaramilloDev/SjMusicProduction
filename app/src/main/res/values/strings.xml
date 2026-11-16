@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">SjMusicProduction</string>
+    <string name="app_name">SJ Music Production</string>
+    <string name="main_title">SJ PRODUCT MUSIC</string>
+    <string name="main_subtitle">Convierte tus ideas musicales en obras maestras</string>
+    <string name="btn_register_here">Inscríbete aquí</string>
+
+    <string name="hint_name">Nombre:</string>
+    <string name="hint_email">Correo electrónico:</string>
+    <string name="select_course">Seleccione un curso:</string>
+    <string name="dialog_select_course_title">Selecciona un curso</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_register">Inscribirse</string>
+    <string name="error_fill_fields">Por favor, completa todos los campos y selecciona un curso.</string>
+    <string name="error_invalid_email">Por favor, ingresa un correo electrónico válido.</string>
+
+    <string name="third_title">¡Ahora depende de ti!</string>
+    <string name="label_name">Nombre: %1$s</string>
+    <string name="label_email">Correo: %1$s</string>
+    <string name="label_course">Curso seleccionado: %1$s</string>
+    <string name="btn_finish">Finalizar</string>
+
+    <string name="course_mixing">Curso de mezcla</string>
+    <string name="course_mastering">Curso de masterización</string>
+    <string name="course_production">Curso de producción</string>
+
+    <string name="cd_logo">Logo de SJ Music Production</string>
+    <string name="cd_studio">Imagen del estudio de grabación</string>
+    <string name="cd_inscribed">Imagen de confirmación de inscripción</string>
 </resources>
